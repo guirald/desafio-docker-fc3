@@ -7,7 +7,7 @@
 
 ## Description
 
-[Golang](https://go.dev) Challange.
+[Golang](https://go.dev) Challange #1.
 
 ## DockerHub Image
 
@@ -21,7 +21,23 @@ docker pull guirald/desafio-golang-fc30
 $ docker run guirald/desafio-golang-fc30:dev
 ```
 
+----------------------------------------------------------------------------------
 
+## Description
+
+[Nodejs](https://nodejs.org) Challange #2.
+
+## Running the app
+
+```bash
+$ docker-compose up -d --build
+```
+
+## Accessing the app
+
+```bash
+http://localhost:8080
+```
 
 ## Stay in touch
 
